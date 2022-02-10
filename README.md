@@ -1,6 +1,7 @@
 # Spotify
- The Spotify clone which can replaces with your original spotify
-😎😎🤠
+ The Spotify clone which can replaces with your original 
+ # spotify 😎😎🤠
+
 # This Project is Deployed on Firebase
 
 # SEE LIVE HERE
