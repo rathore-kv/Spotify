@@ -2,11 +2,15 @@
  The Spotify clone which can replaces with your original 
  # spotify 😎😎🤠
 
-# This Project is Deployed on Firebase
+# This Project is Deployed on FIREBASE & NETLIFY
 
-# SEE LIVE HERE
+
+
+# SEE LIVE HERE (Deployed on Netlify)
+https://spotifyy-app.netlify.app/
+
+# SEE LIVE HERE(Deplpyed on Firebase)
 https://spotify-89cd3.web.app
-
 ##
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
